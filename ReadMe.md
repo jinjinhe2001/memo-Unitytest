@@ -1,7 +1,7 @@
 # memo_UnitytestReadMe
 Unity test for memo(participant:hjj)
-第一天：学习unity与Csharp，还在入门。肝。。。
-        第一次正规使用Github（摸索中）。
+第一天：学习unity与Csharp，还在入门。肝。。。\n
+        第一次正规使用Github（摸索中）。\n
 第二天：继续学习
 第三天：人物控制与继电器拾取尝试。
 第四天：学习tilemap
