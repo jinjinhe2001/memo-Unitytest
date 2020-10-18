@@ -1,5 +1,4 @@
-# memo_UnitytestReadMe
-Unity test for memo(participant:hjj)
+# memo_UnitytestReadMe  
 第一天：学习unity与Csharp，还在入门。肝。。。  
         第一次正规使用Github（摸索中）。  
 第二天：继续学习  
